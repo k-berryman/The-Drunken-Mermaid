@@ -1305,6 +1305,10 @@ section.lazy-placeholder:after {
     padding-bottom: 48px !important;
   }
 }
+.cid-vd1LzIvXD3 .address-title,
+.cid-vd1LzIvXD3 .address-block {
+  color: #efefef;
+}
 .cid-vd1BxlqhLP .nav-item:focus,
 .cid-vd1BxlqhLP .nav-link:focus {
   outline: none;
@@ -1343,7 +1347,6 @@ section.lazy-placeholder:after {
   min-height: 77px;
   transition: all 0.3s;
   background: #ffffff;
-  background: none;
 }
 .cid-vd1BxlqhLP .navbar.opened {
   transition: all 0.3s;
